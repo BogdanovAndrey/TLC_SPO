@@ -1,10 +1,6 @@
 [submodule "External_Libs/stm32-bootloader"]
 	path = External_Libs/stm32-bootloader
 	url = https://github.com/ferenc-nemeth/stm32-bootloader
-[submodule "External_Libs/FreeRTOS"]
-	path = External_Libs/FreeRTOS
-	url = https://github.com/FreeRTOS/FreeRTOS
-
 
 
 

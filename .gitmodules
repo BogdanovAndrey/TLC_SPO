@@ -4,3 +4,6 @@
 
 
 
+[submodule "External_Libs/FreeRTOS"]
+	path = External_Libs/FreeRTOS
+	url = https://github.com/FreeRTOS/FreeRTOS
